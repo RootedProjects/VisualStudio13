@@ -1,0 +1,19 @@
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Liemers College App.dll
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Liemers College App.pdb
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\AppManifest.xaml
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\Bin\Debug\Liemers_College_App_Debug_AnyCPU.xap
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\App.g.cs
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\MainPage.g.cs
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\Liemers College App.g.resources
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\Liemers_College_App.Resources.AppResources.resources
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\Liemers College App.csproj.GenerateResource.Cache
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\Liemers College App.dll
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\Liemers College App.pdb
+c:\users\hans\documents\visual studio 2013\Projects\Liemers College App\Liemers College App\obj\Debug\XapCacheFile.xml
