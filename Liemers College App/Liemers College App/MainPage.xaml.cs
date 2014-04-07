@@ -26,7 +26,7 @@ namespace Liemers_College_App
         {
             InitializeComponent();
 
-            rooster = "http://roosters4.gepro-osi.nl/roosters/rooster.php?klassen%5B%5D=z" + txt_rooster.Text.ToString() + "&type=Klasrooster&wijzigingen=1&school=1493";
+            rooster = "http://roosters4.gepro-osi.nl/roosters/rooster.php?klassen%5B%5D=z" + txt_rooster.Text + "2t&type=Klasrooster&wijzigingen=1&school=1493";
             cijfers = "https://leerlingen.liemerscollege.nl/Leren_bij___#objectWrapper2330=startdate%3D02-04-2014";
             teletop = "http://liemerscollege.teletop.nl/tt/liemers/home.nsf";
             teletop2 = "http://liemerscollege.teletop.nl/tt/liemers/";
