@@ -1,0 +1,13 @@
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\App.g.cs
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\MainPage.g.cs
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\sdkMiniBrowserCS.g.resources
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\ApplicationIcon.png
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\Background.png
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\sdkMiniBrowserCS.dll
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\sdkMiniBrowserCS.pdb
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\AppManifest.xaml
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\Bin\Debug\sdkMiniBrowserCS_Debug_AnyCPU.xap
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\sdkMiniBrowserCS.dll
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\sdkMiniBrowserCS.pdb
+C:\Users\dvand_000\Documents\Privé\Projecten\Apps\LiemersCollege\C#\sdkMiniBrowserCS\obj\Debug\XapCacheFile.xml
